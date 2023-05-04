@@ -24,7 +24,7 @@ button {
 	color: #fff;
 	font-size: 28px;
 	text-transform: uppercase;
-	cursor: pointer;
+	cursor: default;
 	overflow: hidden;
 }
 button::before,
